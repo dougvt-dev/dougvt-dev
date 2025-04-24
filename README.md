@@ -18,38 +18,37 @@ Here are some ideas to get you started:
 
 Here are the technologies I work with:
 
-### Programming Languages
-- Python 🐍
-- JavaScript/TypeScript
-- Java
-- C/C++
+### 👨‍💻 Programming Languages
+- 🐍 Python
+- 💛 JavaScript/TypeScript
+- ☕ Java
+- ⚡ C/C++
 
-### AI & Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Hugging Face Transformers
-- LangChain
+### 🧠 AI & Machine Learning
+- 🔥 PyTorch
+- 📊 TensorFlow
+- 🔬 Scikit-learn
+- 🤗 Hugging Face Transformers
+- ⛓️ LangChain
 
-### Web Development
-- React
-- Node.js
-- Flask/Django
-- HTML/CSS
+### 🌐 Web Development
+- ⚛️ React
+- 💚 Node.js
+- 🌶️ Flask/Django
+- 📝 HTML/CSS
 
-### Data Processing & Analysis
-- Pandas
-- NumPy
-- SQL
-- Apache Spark
-- Data Visualization (Matplotlib, Plotly)
+### 📈 Data Processing & Analysis
+- 🐼 Pandas
+- 🔢 NumPy
+- 🗃️ SQL
+- ✨ Apache Spark
+- 📊 Data Visualization (Matplotlib, Plotly)
 
-### DevOps & Tools
-- Docker
-- Git/GitHub
-- CI/CD
-- AWS/GCP
-- Linux
+### 🔧 DevOps & Tools
+- 🐳 Docker
+- 🔄 Git/GitHub
+- 🚀 CI/CD
+- 🐧 Linux
 
 </br>
 Thanks for reading! :pray:
